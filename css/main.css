@@ -10,8 +10,15 @@ h1{
 	color: palevioletred;
 }
 
+.clock_section{
+	text-align:center;
+    width:auto;
+    height:auto;
+}
 
-
+.clock{
+	font-size:100px;
+}
 
 
 
